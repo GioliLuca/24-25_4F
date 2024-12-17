@@ -49,7 +49,7 @@ public class Autonoleggio {
 
     public static void main(String[] args) {
         Autonoleggio a = new Autonoleggio();
-        a.aggiungi(new Veicolo("FW343WE", "Audi", "A4", 5));
+        a.aggiungi(new Veicolo("FW343WE", "mercedes", "A4", 5));
         a.aggiungi(new Veicolo("ASASS", "Audi", "A4", 5));
         a.aggiungi(new Veicolo("KSKSKS", "Audi", "A4", 5));
         a.aggiungi(new Veicolo("AABBCC", "Lamborghini", "Aventador", 4));
